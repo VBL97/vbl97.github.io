@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.2733dfdb.chunk.css",
-    "main.js": "./static/js/main.3a8e7211.chunk.js",
-    "main.js.map": "./static/js/main.3a8e7211.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.15285aa1.js",
-    "runtime-main.js.map": "./static/js/runtime-main.15285aa1.js.map",
-    "static/js/2.358f7208.chunk.js": "./static/js/2.358f7208.chunk.js",
-    "static/js/2.358f7208.chunk.js.map": "./static/js/2.358f7208.chunk.js.map",
+    "main.css": "./static/css/main.121343f0.css",
+    "main.js": "./static/js/main.2db53ed5.js",
+    "static/media/Pokemon Solid.ttf": "./static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
     "index.html": "./index.html",
-    "precache-manifest.0facc9c232258ca268d40dc74a605e2e.js": "./precache-manifest.0facc9c232258ca268d40dc74a605e2e.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.2733dfdb.chunk.css.map": "./static/css/main.2733dfdb.chunk.css.map",
-    "static/js/2.358f7208.chunk.js.LICENSE.txt": "./static/js/2.358f7208.chunk.js.LICENSE.txt",
-    "static/media/header.css": "./static/media/Pokemon Solid.36d26dbc.ttf"
+    "main.121343f0.css.map": "./static/css/main.121343f0.css.map",
+    "main.2db53ed5.js.map": "./static/js/main.2db53ed5.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.15285aa1.js",
-    "static/js/2.358f7208.chunk.js",
-    "static/css/main.2733dfdb.chunk.css",
-    "static/js/main.3a8e7211.chunk.js"
+    "static/css/main.121343f0.css",
+    "static/js/main.2db53ed5.js"
   ]
 }
